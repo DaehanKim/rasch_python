@@ -24,3 +24,4 @@ python rasch_main.py
 
 To see train negative log likelihood, enter [localhost:8097](http://localhost:8097)!
 
+![visdom](./visdom.PNG)
